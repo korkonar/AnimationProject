@@ -1,0 +1,1552 @@
+fileFormatVersion: 2
+guid: 3b7a6774a0e27ab45829753f7467f831
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      74: 8122646019229487488
+    second: Armature 1|Armature 1|Building the Kite|Building the Kite:BaseAnimation
+  - first:
+      74: 1193907704187772308
+    second: Armature 1|Armature 1|Default Take|Default Take:BaseAnimation
+  - first:
+      74: -1242843931301211454
+    second: Armature 1|Armature 1|Falling down take|Falling down take:BaseAnimation
+  - first:
+      74: -7649635507060282648
+    second: Armature 1|Armature 1|Flying|Flying:BaseAnimation
+  - first:
+      74: 1082837806490590919
+    second: Armature 1|Armature 1|Getting Up|Getting Up:BaseAnimation
+  - first:
+      74: -9083127571883518080
+    second: Armature 1|Armature 1|Initial test take|Initial test take:BaseAnimation
+  - first:
+      74: -7249997179197339753
+    second: Armature 1|Armature 1|Kite Done|Kite Done:BaseAnimation
+  - first:
+      74: 6742588538762471063
+    second: Armature 1|Armature 1|Kite Idea|Kite Idea:BaseAnimation
+  - first:
+      74: 7720661367914597465
+    second: Armature 1|Armature 1|Kite Magic|Kite Magic:BaseAnimation
+  - first:
+      74: -4201507469530517175
+    second: Armature 1|Armature 1|Lying down|Lying down:BaseAnimation
+  - first:
+      74: 6076194850377063009
+    second: Armature 1|Armature 1|Observing the Kite|Observing the Kite:BaseAnimation
+  - first:
+      74: 3196117188833162265
+    second: Armature 1|Armature 1|Running with the Kite 1|Running with the Kite 1:Base
+  - first:
+      74: -2156681142845939036
+    second: Armature 1|Armature 1|Running with the Kite 2|Running with the Kite 2:Base
+  - first:
+      74: 7070289654217310323
+    second: Armature 1|Armature 1|Running with the Kite 3|Running with the Kite 3:Base
+  - first:
+      74: 6970490154100680751
+    second: Armature 1|Armature 1|Scene 1|Scene 1:BaseAnimation
+  - first:
+      74: 2050824669872503830
+    second: Armature 1|Armature 1|Seeing the Kite|Seeing the Kite:BaseAnimation
+  - first:
+      74: 4416439970595325811
+    second: Armature 1|Armature 1|Superman1|Superman1:BaseAnimation
+  - first:
+      74: -7976651413312243480
+    second: Armature 1|Armature 1|Superman2|Superman2:BaseAnimation
+  - first:
+      74: -7840324013356378604
+    second: Armature 1|Armature 1|Take 001|Take 001:BaseAnimation
+  - first:
+      74: 1768464285102304048
+    second: Armature 1|Armature 1|Turning and Running 1|Turning and Running 1:BaseAnim
+  - first:
+      74: -2854010505953176122
+    second: Armature 1|Armature 1|Turning and Running 2|Turning and Running 2:BaseAnim
+  - first:
+      74: -1800033340205499529
+    second: Armature 1|Bente3:RootNode|Default Take|Default Take:BaseAnimation
+  - first:
+      74: 6901478477401835449
+    second: Armature 1|Bente3:RootNode|Take 001|Take 001:BaseAnimation
+  - first:
+      74: -7039088377841093946
+    second: Bente3:RootNode|Bente3:RootNode|Building the Kite|Building the Kite:BaseAnimati
+  - first:
+      74: 508379176050379351
+    second: Bente3:RootNode|Bente3:RootNode|Default Take|Default Take:BaseAnimation
+  - first:
+      74: -2086078786401809471
+    second: Bente3:RootNode|Bente3:RootNode|Falling down take|Falling down take:BaseAnimati
+  - first:
+      74: -2424419021049701615
+    second: Bente3:RootNode|Bente3:RootNode|Flying|Flying:BaseAnimation
+  - first:
+      74: 6456161857868322275
+    second: Bente3:RootNode|Bente3:RootNode|Getting Up|Getting Up:BaseAnimation
+  - first:
+      74: 3112962298506679105
+    second: Bente3:RootNode|Bente3:RootNode|Initial test take|Initial test take:BaseAnimati
+  - first:
+      74: 7754192628637639472
+    second: Bente3:RootNode|Bente3:RootNode|Kite Done|Kite Done:AnimLayer1
+  - first:
+      74: -721591303373393750
+    second: Bente3:RootNode|Bente3:RootNode|Kite Done|Kite Done:BaseAnimation
+  - first:
+      74: -2691914321500333566
+    second: Bente3:RootNode|Bente3:RootNode|Kite Idea|Kite Idea:BaseAnimation
+  - first:
+      74: 2173459674799067202
+    second: Bente3:RootNode|Bente3:RootNode|Kite Magic|Kite Magic:BaseAnimation
+  - first:
+      74: -2419430093250499626
+    second: Bente3:RootNode|Bente3:RootNode|Lying down|Lying down:BaseAnimation
+  - first:
+      74: 4238923789736623508
+    second: Bente3:RootNode|Bente3:RootNode|Observing the Kite|Observing the Kite:BaseAnima
+  - first:
+      74: 7392713493839259224
+    second: Bente3:RootNode|Bente3:RootNode|Running with the Kite 1|Running with the
+      Kite 1
+  - first:
+      74: -6594618469017901656
+    second: Bente3:RootNode|Bente3:RootNode|Running with the Kite 2|Running with the
+      Kite 2
+  - first:
+      74: 4074877578280582914
+    second: Bente3:RootNode|Bente3:RootNode|Running with the Kite 3|Running with the
+      Kite 3
+  - first:
+      74: 4702685643999968525
+    second: Bente3:RootNode|Bente3:RootNode|Scene 1|Scene 1:BaseAnimation
+  - first:
+      74: -2507530449844293750
+    second: Bente3:RootNode|Bente3:RootNode|Seeing the Kite|Seeing the Kite:BaseAnimation
+  - first:
+      74: 7840274788685600612
+    second: Bente3:RootNode|Bente3:RootNode|Superman1|Superman1:BaseAnimation
+  - first:
+      74: 6146365977403378761
+    second: Bente3:RootNode|Bente3:RootNode|Superman2|Superman2:BaseAnimation
+  - first:
+      74: -4409578274421682607
+    second: Bente3:RootNode|Bente3:RootNode|Take 001|Take 001:BaseAnimation
+  - first:
+      74: -8550691323294972890
+    second: Bente3:RootNode|Bente3:RootNode|Turning and Running 1|Turning and Running
+      1:Bas
+  - first:
+      74: -3551048262227463522
+    second: Bente3:RootNode|Bente3:RootNode|Turning and Running 2|Turning and Running
+      2:Bas
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Building the Kite|Building the Kite:BaseAnimation
+      takeName: Armature 1|Armature 1|Building the Kite|Building the Kite:BaseAnimation
+      internalID: 8122646019229487488
+      firstFrame: 0
+      lastFrame: 1366.4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Default Take|Default Take:BaseAnimation
+      takeName: Armature 1|Armature 1|Default Take|Default Take:BaseAnimation
+      internalID: 1193907704187772308
+      firstFrame: 0
+      lastFrame: 248.8
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Falling down take|Falling down take:BaseAnimation
+      takeName: Armature 1|Armature 1|Falling down take|Falling down take:BaseAnimation
+      internalID: -1242843931301211454
+      firstFrame: 0
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Flying|Flying:BaseAnimation
+      takeName: Armature 1|Armature 1|Flying|Flying:BaseAnimation
+      internalID: -7649635507060282648
+      firstFrame: 0
+      lastFrame: 237.6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Getting Up|Getting Up:BaseAnimation
+      takeName: Armature 1|Armature 1|Getting Up|Getting Up:BaseAnimation
+      internalID: 1082837806490590919
+      firstFrame: 0
+      lastFrame: 642.4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Initial test take|Initial test take:BaseAnimation
+      takeName: Armature 1|Armature 1|Initial test take|Initial test take:BaseAnimation
+      internalID: -9083127571883518080
+      firstFrame: 0
+      lastFrame: 404
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Kite Done|Kite Done:BaseAnimation
+      takeName: Armature 1|Armature 1|Kite Done|Kite Done:BaseAnimation
+      internalID: -7249997179197339753
+      firstFrame: 0
+      lastFrame: 202.4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Kite Idea|Kite Idea:BaseAnimation
+      takeName: Armature 1|Armature 1|Kite Idea|Kite Idea:BaseAnimation
+      internalID: 6742588538762471063
+      firstFrame: 0
+      lastFrame: 234.4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Kite Magic|Kite Magic:BaseAnimation
+      takeName: Armature 1|Armature 1|Kite Magic|Kite Magic:BaseAnimation
+      internalID: 7720661367914597465
+      firstFrame: 0
+      lastFrame: 1172
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Lying down|Lying down:BaseAnimation
+      takeName: Armature 1|Armature 1|Lying down|Lying down:BaseAnimation
+      internalID: -4201507469530517175
+      firstFrame: 0
+      lastFrame: 490.39996
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Observing the Kite|Observing the Kite:BaseAnimation
+      takeName: Armature 1|Armature 1|Observing the Kite|Observing the Kite:BaseAnimation
+      internalID: 6076194850377063009
+      firstFrame: 0
+      lastFrame: 198.4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Running with the Kite 1|Running with the Kite 1:Base
+      takeName: Armature 1|Armature 1|Running with the Kite 1|Running with the Kite
+        1:Base
+      internalID: 3196117188833162265
+      firstFrame: 0
+      lastFrame: 84
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Running with the Kite 2|Running with the Kite 2:Base
+      takeName: Armature 1|Armature 1|Running with the Kite 2|Running with the Kite
+        2:Base
+      internalID: -2156681142845939036
+      firstFrame: 0
+      lastFrame: 185.59999
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Running with the Kite 3|Running with the Kite 3:Base
+      takeName: Armature 1|Armature 1|Running with the Kite 3|Running with the Kite
+        3:Base
+      internalID: 7070289654217310323
+      firstFrame: 0
+      lastFrame: 222.4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Scene 1|Scene 1:BaseAnimation
+      takeName: Armature 1|Armature 1|Scene 1|Scene 1:BaseAnimation
+      internalID: 6970490154100680751
+      firstFrame: 0
+      lastFrame: 344
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Seeing the Kite|Seeing the Kite:BaseAnimation
+      takeName: Armature 1|Armature 1|Seeing the Kite|Seeing the Kite:BaseAnimation
+      internalID: 2050824669872503830
+      firstFrame: 0
+      lastFrame: 462.4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Superman1|Superman1:BaseAnimation
+      takeName: Armature 1|Armature 1|Superman1|Superman1:BaseAnimation
+      internalID: 4416439970595325811
+      firstFrame: 0
+      lastFrame: 312
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Superman2|Superman2:BaseAnimation
+      takeName: Armature 1|Armature 1|Superman2|Superman2:BaseAnimation
+      internalID: -7976651413312243480
+      firstFrame: 0
+      lastFrame: 312
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Take 001|Take 001:BaseAnimation
+      takeName: Armature 1|Armature 1|Take 001|Take 001:BaseAnimation
+      internalID: -7840324013356378604
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Turning and Running 1|Turning and Running 1:BaseAnim
+      takeName: Armature 1|Armature 1|Turning and Running 1|Turning and Running 1:BaseAnim
+      internalID: 1768464285102304048
+      firstFrame: 0
+      lastFrame: 331.19998
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Armature 1|Turning and Running 2|Turning and Running 2:BaseAnim
+      takeName: Armature 1|Armature 1|Turning and Running 2|Turning and Running 2:BaseAnim
+      internalID: -2854010505953176122
+      firstFrame: 0
+      lastFrame: 354.4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Bente3:RootNode|Default Take|Default Take:BaseAnimation
+      takeName: Armature 1|Bente3:RootNode|Default Take|Default Take:BaseAnimation
+      internalID: -1800033340205499529
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature 1|Bente3:RootNode|Take 001|Take 001:BaseAnimation
+      takeName: Armature 1|Bente3:RootNode|Take 001|Take 001:BaseAnimation
+      internalID: 6901478477401835449
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Building the Kite|Building the Kite:BaseAnimati
+      takeName: Bente3:RootNode|Bente3:RootNode|Building the Kite|Building the Kite:BaseAnimati
+      internalID: -7039088377841093946
+      firstFrame: 0
+      lastFrame: 1366.4016
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Default Take|Default Take:BaseAnimation
+      takeName: Bente3:RootNode|Bente3:RootNode|Default Take|Default Take:BaseAnimation
+      internalID: 508379176050379351
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Falling down take|Falling down take:BaseAnimati
+      takeName: Bente3:RootNode|Bente3:RootNode|Falling down take|Falling down take:BaseAnimati
+      internalID: -2086078786401809471
+      firstFrame: 0
+      lastFrame: 139.19638
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Flying|Flying:BaseAnimation
+      takeName: Bente3:RootNode|Bente3:RootNode|Flying|Flying:BaseAnimation
+      internalID: -2424419021049701615
+      firstFrame: 0
+      lastFrame: 236.40588
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Getting Up|Getting Up:BaseAnimation
+      takeName: Bente3:RootNode|Bente3:RootNode|Getting Up|Getting Up:BaseAnimation
+      internalID: 6456161857868322275
+      firstFrame: 0
+      lastFrame: 593.2035
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Initial test take|Initial test take:BaseAnimati
+      takeName: Bente3:RootNode|Bente3:RootNode|Initial test take|Initial test take:BaseAnimati
+      internalID: 3112962298506679105
+      firstFrame: 0
+      lastFrame: 403.0116
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Kite Done|Kite Done:AnimLayer1
+      takeName: Bente3:RootNode|Bente3:RootNode|Kite Done|Kite Done:AnimLayer1
+      internalID: 7754192628637639472
+      firstFrame: 0
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Kite Done|Kite Done:BaseAnimation
+      takeName: Bente3:RootNode|Bente3:RootNode|Kite Done|Kite Done:BaseAnimation
+      internalID: -721591303373393750
+      firstFrame: 0
+      lastFrame: 277.99597
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Kite Idea|Kite Idea:BaseAnimation
+      takeName: Bente3:RootNode|Bente3:RootNode|Kite Idea|Kite Idea:BaseAnimation
+      internalID: -2691914321500333566
+      firstFrame: 0
+      lastFrame: 234.41415
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Kite Magic|Kite Magic:BaseAnimation
+      takeName: Bente3:RootNode|Bente3:RootNode|Kite Magic|Kite Magic:BaseAnimation
+      internalID: 2173459674799067202
+      firstFrame: 0
+      lastFrame: 1171.2064
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Lying down|Lying down:BaseAnimation
+      takeName: Bente3:RootNode|Bente3:RootNode|Lying down|Lying down:BaseAnimation
+      internalID: -2419430093250499626
+      firstFrame: 0
+      lastFrame: 490.8128
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Observing the Kite|Observing the Kite:BaseAnima
+      takeName: Bente3:RootNode|Bente3:RootNode|Observing the Kite|Observing the Kite:BaseAnima
+      internalID: 4238923789736623508
+      firstFrame: 0
+      lastFrame: 230.81702
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Running with the Kite 1|Running with the
+        Kite 1
+      takeName: Bente3:RootNode|Bente3:RootNode|Running with the Kite 1|Running with
+        the Kite 1
+      internalID: 7392713493839259224
+      firstFrame: 0
+      lastFrame: 346.7916
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Running with the Kite 2|Running with the
+        Kite 2
+      takeName: Bente3:RootNode|Bente3:RootNode|Running with the Kite 2|Running with
+        the Kite 2
+      internalID: -6594618469017901656
+      firstFrame: 0
+      lastFrame: 231.6195
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Running with the Kite 3|Running with the
+        Kite 3
+      takeName: Bente3:RootNode|Bente3:RootNode|Running with the Kite 3|Running with
+        the Kite 3
+      internalID: 4074877578280582914
+      firstFrame: 0
+      lastFrame: 221.1954
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Scene 1|Scene 1:BaseAnimation
+      takeName: Bente3:RootNode|Bente3:RootNode|Scene 1|Scene 1:BaseAnimation
+      internalID: 4702685643999968525
+      firstFrame: 0
+      lastFrame: 343.58997
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Seeing the Kite|Seeing the Kite:BaseAnimation
+      takeName: Bente3:RootNode|Bente3:RootNode|Seeing the Kite|Seeing the Kite:BaseAnimation
+      internalID: -2507530449844293750
+      firstFrame: 0
+      lastFrame: 462.39532
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Superman1|Superman1:BaseAnimation
+      takeName: Bente3:RootNode|Bente3:RootNode|Superman1|Superman1:BaseAnimation
+      internalID: 7840274788685600612
+      firstFrame: 0
+      lastFrame: 314.1954
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Superman2|Superman2:BaseAnimation
+      takeName: Bente3:RootNode|Bente3:RootNode|Superman2|Superman2:BaseAnimation
+      internalID: 6146365977403378761
+      firstFrame: 0
+      lastFrame: 310.8068
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Take 001|Take 001:BaseAnimation
+      takeName: Bente3:RootNode|Bente3:RootNode|Take 001|Take 001:BaseAnimation
+      internalID: -4409578274421682607
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Turning and Running 1|Turning and Running
+        1:Bas
+      takeName: Bente3:RootNode|Bente3:RootNode|Turning and Running 1|Turning and
+        Running 1:Bas
+      internalID: -8550691323294972890
+      firstFrame: 0
+      lastFrame: 415.18005
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bente3:RootNode|Bente3:RootNode|Turning and Running 2|Turning and Running
+        2:Bas
+      takeName: Bente3:RootNode|Bente3:RootNode|Turning and Running 2|Turning and
+        Running 2:Bas
+      internalID: -3551048262227463522
+      firstFrame: 0
+      lastFrame: 354.4079
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
