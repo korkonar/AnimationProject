@@ -15,6 +15,12 @@ ModelImporter:
   - first:
       74: 5657057963340218507
     second: Armature.001|TailStraight
+  - first:
+      74: -7470861625211927170
+    second: Armature.001|TailTurnLeft
+  - first:
+      74: 5075240653969095602
+    second: Armature.001|TailTurnRight
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -134,6 +140,64 @@ ModelImporter:
       name: Armature.001|TailStraight
       takeName: Armature.001|TailStraight
       internalID: 5657057963340218507
+      firstFrame: 0
+      lastFrame: 199
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|TailTurnLeft
+      takeName: Armature.001|TailTurnLeft
+      internalID: -7470861625211927170
+      firstFrame: 0
+      lastFrame: 199
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.001|TailTurnRight
+      takeName: Armature.001|TailTurnRight
+      internalID: 5075240653969095602
       firstFrame: 0
       lastFrame: 199
       wrapMode: 0
