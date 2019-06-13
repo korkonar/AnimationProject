@@ -131,7 +131,7 @@ MonoBehaviour:
     overrideState: 1
     value: 1
   gradingMode:
-    overrideState: 0
+    overrideState: 1
     value: 1
   externalLut:
     overrideState: 0
@@ -218,7 +218,7 @@ MonoBehaviour:
     value: 100
   lift:
     overrideState: 0
-    value: {x: 1, y: 1, z: 1, w: 0}
+    value: {x: 0.053454816, y: 0.5014754, z: 1, w: -0.058091275}
   gamma:
     overrideState: 0
     value: {x: 1, y: 1, z: 1, w: 0}

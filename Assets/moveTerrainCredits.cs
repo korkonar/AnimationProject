@@ -13,6 +13,6 @@ public class moveTerrainCredits : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z + 1);
+        transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z - 0.05f);
     }
 }

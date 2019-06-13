@@ -13,44 +13,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeInFrames: 0
-<<<<<<< HEAD
-  timeAreaShownRange: {x: 0.12462646, y: 61.370724}
-=======
-  timeAreaShownRange: {x: -0.21154673, y: 15.929469}
->>>>>>> 43fe65eff90e0b9399cca46c71de4af685887c28
+  timeAreaShownRange: {x: 11.852603, y: 41.865158}
   showAudioWaveform: 1
   trackHeight: 30
   trackScale: 1
   playRangeEnabled: 0
   timeAreaPlayRange: {x: 3.4028235e+38, y: 3.4028235e+38}
-  windowTime: 0.019999999552965164
-<<<<<<< HEAD
-  verticalScroll: 869
-=======
-  verticalScroll: 488
->>>>>>> 43fe65eff90e0b9399cca46c71de4af685887c28
-  showMarkerHeader: 1
+  windowTime: 26.75714690051973
+  verticalScroll: 682
+  showMarkerHeader: 0
   m_Keys:
+  - {fileID: 3489165282098486472, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
+  - {fileID: 6472816602469477720, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
+  - {fileID: -1090192383108743390, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
+  - {fileID: -747552687292128731, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
+  - {fileID: 5249259316415347523, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
+  - {fileID: 1940837672210173211, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
+  - {fileID: -1169722159726695340, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
   - {fileID: 6621481087857536675, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
-  - {fileID: 3818447673402337822, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
-  - {fileID: 9178915036210927920, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
   - {fileID: 77406559128130174, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
   - {fileID: 6150277638476479750, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
   - {fileID: 6650638896291354206, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
   - {fileID: -8573708470679160699, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
   - {fileID: 6233348803374627060, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
-  - {fileID: 521588119395144586, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
-  - {fileID: -1090192383108743390, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
-  - {fileID: 7618445228009702327, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
   - {fileID: -4256979950052528997, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
-  - {fileID: -747552687292128731, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
-  - {fileID: 5249259316415347523, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
-  - {fileID: 1940837672210173211, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
   - {fileID: -7177306732732453633, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
-  - {fileID: 6472816602469477720, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
+  - {fileID: 521588119395144586, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
+  - {fileID: 7618445228009702327, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
+  - {fileID: 3818447673402337822, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
+  - {fileID: 9178915036210927920, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
   - {fileID: 910233763787715230, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
-  - {fileID: -1169722159726695340, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
-  - {fileID: 3489165282098486472, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
   - {fileID: 7316846704077863405, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
   - {fileID: 5308861344029723288, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
   - {fileID: -4117759516519674375, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
@@ -61,151 +53,7 @@ MonoBehaviour:
   - {fileID: 2534030387775415096, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
   - {fileID: 3348339547775508151, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
   - {fileID: -8958067060426179244, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
-  - {fileID: -7826610265461123918, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
-  - {fileID: -2703527884547475526, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
-  - {fileID: 5218770568281827335, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
-  - {fileID: 8901225600245824432, guid: b205d7d2ff2e1654ab00ef8fac980ca2, type: 2}
   m_Vals:
-  - collapsed: 0
-    showMarkers: 1
-    showInlineCurves: 0
-    inlineAnimationCurveHeight: 100
-    lastInlineCurveDataID: -1
-    inlineCurvesState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 
-      m_RenameOverlay:
-        m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
-        m_EditFieldRect:
-          serializedVersion: 2
-          x: 0
-          y: 0
-          width: 0
-          height: 0
-        m_UserData: 0
-        m_IsWaitingForDelay: 0
-        m_IsRenaming: 0
-        m_OriginalEventType: 11
-        m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
-      m_SearchString: 
-    inlineCurvesShownAreaInsideMargins:
-      serializedVersion: 2
-      x: 1
-      y: 1
-      width: 1
-      height: 1
-    m_MarkerTimeStampsKeys: 
-    m_MarkerTimeStampsValues: 
-  - collapsed: 0
-    showMarkers: 1
-    showInlineCurves: 0
-    inlineAnimationCurveHeight: 100
-    lastInlineCurveDataID: -1
-    inlineCurvesState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 
-      m_RenameOverlay:
-        m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
-        m_EditFieldRect:
-          serializedVersion: 2
-          x: 0
-          y: 0
-          width: 0
-          height: 0
-        m_UserData: 0
-        m_IsWaitingForDelay: 0
-        m_IsRenaming: 0
-        m_OriginalEventType: 11
-        m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
-      m_SearchString: 
-    inlineCurvesShownAreaInsideMargins:
-      serializedVersion: 2
-      x: 1
-      y: 1
-      width: 1
-      height: 1
-    m_MarkerTimeStampsKeys: 
-    m_MarkerTimeStampsValues: 
-  - collapsed: 0
-    showMarkers: 1
-    showInlineCurves: 0
-    inlineAnimationCurveHeight: 100
-    lastInlineCurveDataID: -1
-    inlineCurvesState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 
-      m_RenameOverlay:
-        m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
-        m_EditFieldRect:
-          serializedVersion: 2
-          x: 0
-          y: 0
-          width: 0
-          height: 0
-        m_UserData: 0
-        m_IsWaitingForDelay: 0
-        m_IsRenaming: 0
-        m_OriginalEventType: 11
-        m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
-      m_SearchString: 
-    inlineCurvesShownAreaInsideMargins:
-      serializedVersion: 2
-      x: 1
-      y: 1
-      width: 1
-      height: 1
-    m_MarkerTimeStampsKeys: 
-    m_MarkerTimeStampsValues: 
-  - collapsed: 0
-    showMarkers: 1
-    showInlineCurves: 0
-    inlineAnimationCurveHeight: 100
-    lastInlineCurveDataID: -1
-    inlineCurvesState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 
-      m_RenameOverlay:
-        m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
-        m_EditFieldRect:
-          serializedVersion: 2
-          x: 0
-          y: 0
-          width: 0
-          height: 0
-        m_UserData: 0
-        m_IsWaitingForDelay: 0
-        m_IsRenaming: 0
-        m_OriginalEventType: 11
-        m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
-      m_SearchString: 
-    inlineCurvesShownAreaInsideMargins:
-      serializedVersion: 2
-      x: 1
-      y: 1
-      width: 1
-      height: 1
-    m_MarkerTimeStampsKeys: 
-    m_MarkerTimeStampsValues: 
   - collapsed: 0
     showMarkers: 1
     showInlineCurves: 0
