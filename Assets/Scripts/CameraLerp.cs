@@ -6,6 +6,7 @@ public class CameraLerp : MonoBehaviour
     // Transforms to act as start and end markers for the journey.
     public Transform startMarker;
     public Transform endMarker;
+    public GameObject toMove;
 
     // Movement speed in units/sec.
     public float speed = 1.0F;
@@ -18,23 +19,22 @@ public class CameraLerp : MonoBehaviour
 
     void Start()
     {
-  
         // Keep a note of the time the movement started.
         startTime = Time.time;
 
         // Calculate the journey length.
-        journeyLength = Vector3.Distance(startMarker.position, endMarker.position);
+        journeyLength = Vector3.Distance(startMarker.position, endMarker.position);         
+    }
 
-        GameObject startingPoint = GameObject.Find("CameraPivot1");
-        transform.position = startingPoint.transform.position;
-        transform.rotation = startingPoint.transform.rotation;
-
+    public void OnEnable()
+    {
+        toMove.transform.position = startMarker.transform.position;
+        toMove.transform.rotation = startMarker.transform.rotation;
     }
 
     // Follows the target position like with a spring
     void Update()
     {
-
         // Distance moved = time * speed.
         float distCovered = (Time.time - startTime) * speed;
 
@@ -42,8 +42,8 @@ public class CameraLerp : MonoBehaviour
         float fracJourney = distCovered / journeyLength;
 
         // Set our position as a fraction of the distance between the markers.
-        transform.position = Vector3.Lerp(startMarker.position, endMarker.position, fracJourney);
-        transform.rotation = Quaternion.Lerp(startMarker.rotation, endMarker.rotation, fracJourney);
+        toMove.transform.position = Vector3.Lerp(startMarker.position, endMarker.position, fracJourney);
+        toMove.transform.rotation = Quaternion.Lerp(startMarker.rotation, endMarker.rotation, fracJourney);
         
     }
 }

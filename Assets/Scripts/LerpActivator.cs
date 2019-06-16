@@ -11,6 +11,6 @@ public class LerpActivator : MonoBehaviour
     void Update()
     {
         if (trigger.activeSelf) toActivate.GetComponent < CameraLerp >().enabled = true;
-        else toActivate.GetComponent<CameraLerp>().enabled = false;
+        else toActivate.GetComponent< CameraLerp >().enabled = false;
     }
 }
