@@ -1055,25 +1055,25 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5416667
-        value: {x: -0.00087, y: 0.00271, z: 0.0061}
-        inSlope: {x: 0.00528, y: 0.00692, z: 0.003466668}
-        outSlope: {x: 0.00528, y: 0.00692, z: 0.003466668}
+        value: {x: -0.00051, y: 0.00265, z: 0.00632}
+        inSlope: {x: 0.0055466676, y: 0.0074400003, z: 0.0077333325}
+        outSlope: {x: 0.0055466676, y: 0.0074400003, z: 0.0077333325}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.75
-        value: {x: 0.00012, y: 0.00471, z: 0.00675}
-        inSlope: {x: 0.0021333336, y: 0.0076, z: 0}
-        outSlope: {x: 0.0021333336, y: 0.0076, z: 0}
+        value: {x: 0.00053, y: 0.0051, z: 0.00871}
+        inSlope: {x: 0, y: 0.0098399995, z: 0}
+        outSlope: {x: 0, y: 0.0098399995, z: 0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.9166667
-        value: {x: 0.00032, y: 0.00556, z: 0.00633}
+        value: {x: 0.00051, y: 0.00634, z: 0.00854}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2428,25 +2428,25 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5416667
-        value: -0.00087
-        inSlope: 0.00528
-        outSlope: 0.00528
+        value: -0.00051
+        inSlope: 0.0055466676
+        outSlope: 0.0055466676
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.75
-        value: 0.00012
-        inSlope: 0.0021333336
-        outSlope: 0.0021333336
+        value: 0.00053
+        inSlope: 0
+        outSlope: 0
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.9166667
-        value: 0.00032
+        value: 0.00051
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2474,25 +2474,25 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5416667
-        value: 0.00271
-        inSlope: 0.00692
-        outSlope: 0.00692
+        value: 0.00265
+        inSlope: 0.0074400003
+        outSlope: 0.0074400003
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.75
-        value: 0.00471
-        inSlope: 0.0076
-        outSlope: 0.0076
+        value: 0.0051
+        inSlope: 0.0098399995
+        outSlope: 0.0098399995
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.9166667
-        value: 0.00556
+        value: 0.00634
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2520,16 +2520,16 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5416667
-        value: 0.0061
-        inSlope: 0.003466668
-        outSlope: 0.003466668
+        value: 0.00632
+        inSlope: 0.0077333325
+        outSlope: 0.0077333325
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.75
-        value: 0.00675
+        value: 0.00871
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2538,7 +2538,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.9166667
-        value: 0.00633
+        value: 0.00854
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -4499,7 +4499,7 @@ MonoBehaviour:
   m_Tracks:
   - {fileID: 175487452004311692}
   - {fileID: -7137615618591495741}
-  m_FixedDuration: 52.041666666666664
+  m_FixedDuration: 52.083333333333336
   m_EditorSettings:
     m_Framerate: 24
   m_DurationMode: 1
